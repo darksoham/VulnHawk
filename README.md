@@ -31,7 +31,7 @@
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/VulnHawk.git
+git clone https://github.com/darksoham/VulnHawk.git
 cd VulnHawk
 ```
 
@@ -67,7 +67,7 @@ sudo service tor start
 Start the tool:
 
 ```bash
-python3 scnwp.py
+python3 vulnhawk.py
 ```
 
 Use the GUI to:
