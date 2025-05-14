@@ -1,0 +1,7 @@
+beautifulsoup4
+requests
+python-whois
+dnspython
+tldextract
+pdfkit
+python-nmap
